@@ -13,6 +13,11 @@ This application generates captions for images using a pre-trained deep learning
 - Python 3.10+ (Recommended)
 - Pip & Virtual Environment (Recommended)
 
+
+## NOTE
+The required deep learning model will be downloaded on the first run. The GUI will display progress for the download & setup.
+
+
 ## Installation  
 Clone the repository and install dependencies:  
 ```bash
