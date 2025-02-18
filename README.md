@@ -24,3 +24,10 @@ Clone the repository and install dependencies:
 git clone https://github.com/Hash1164/AI-Image-Captioning.git
 cd AI-Image-Captioning
 pip install -r requirements.txt
+```
+
+## Running the Application
+
+```bash
+python ai_image_caption_v1_0_0.py
+```
