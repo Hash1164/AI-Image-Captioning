@@ -1,0 +1,1 @@
+torch transformers PyQt5 Pillow
